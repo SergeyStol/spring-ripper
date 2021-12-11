@@ -1,4 +1,4 @@
-package org.example.springripper.constractorscallsorder;
+package org.example.springripper.constractors_calls_order;
 
 /**
  * @author sstol

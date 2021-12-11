@@ -1,4 +1,4 @@
-package org.example.springripper.profiling;
+package org.example.springripper.bean_post_processor;
 
 import java.lang.annotation.Retention;
 

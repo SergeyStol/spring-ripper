@@ -1,4 +1,4 @@
-package org.example.springripper.contextlistener;
+package org.example.springripper.context_listener;
 
 import java.lang.annotation.Retention;
 
